@@ -1,6 +1,6 @@
-# asian_plaza
+# asian_plaza e-commerce Application
 
-A new Flutter project.
+Firebase is also connected
 
 ## Getting Started
 
