@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973997576301",
+    "firebase_url": "https://asianplaza-85d7d.firebaseio.com",
+    "project_id": "asianplaza-85d7d",
+    "storage_bucket": "asianplaza-85d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973997576301:android:f1d6418c3611130092af64",
+        "android_client_info": {
+          "package_name": "com.example.asian_plaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973997576301-f27j5bdbr1m0plt9um936j00j9647p0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRhSWjwBYh6NQECEnFpwk_61rKSLsBQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973997576301-f27j5bdbr1m0plt9um936j00j9647p0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
