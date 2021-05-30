@@ -1,3 +1,5 @@
+![Screenshot_1](https://user-images.githubusercontent.com/42864051/120095625-8815d080-c144-11eb-8ec3-8f4085961785.png)
+![Screenshot_2](https://user-images.githubusercontent.com/42864051/120095638-9663ec80-c144-11eb-8fd5-612e8ac32d8b.png)
 # asian_plaza e-commerce Application
 
 Firebase is also connected
